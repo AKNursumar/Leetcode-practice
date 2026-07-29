@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/AKNursumar/Leetcode-practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/AKNursumar/Leetcode-practice/tree/master/0066-plus-one) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AKNursumar/Leetcode-practice/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/AKNursumar/Leetcode-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
