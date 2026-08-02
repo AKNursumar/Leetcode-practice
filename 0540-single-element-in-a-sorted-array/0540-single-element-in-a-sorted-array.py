@@ -1,7 +1,10 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        xor = 0
+        arr = []
         for num in nums:
-            xor ^=num
-        return xor
+            if num not in arr:
+                arr.append(num)
+            else:
+                arr.remove(num)
+        return arr[0]
         
