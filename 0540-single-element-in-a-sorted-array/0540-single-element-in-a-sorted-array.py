@@ -1,10 +1,14 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
-        arr = []
-        for num in nums:
-            if num not in arr:
-                arr.append(num)
+        low,high = 0,len(nums)-1
+        while low<high:
+            mid = low + (high-low)//2
+            if mid%2 != 0:
+                mid -= 1
+            if nums[mid]==nums[mid+1]:
+                low = mid+2
             else:
-                arr.remove(num)
-        return arr[0]
+                high = mid
+        return nums[low]
+            
         
