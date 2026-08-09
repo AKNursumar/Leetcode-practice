@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0575-distribute-candies) |
+| [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/AKNursumar/Leetcode-practice/tree/master/3731-find-missing-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/AKNursumar/Leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
