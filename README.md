@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AKNursumar/Leetcode-practice/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/AKNursumar/Leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AKNursumar/Leetcode-practice/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/AKNursumar/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AKNursumar/Leetcode-practice/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/AKNursumar/Leetcode-practice/tree/master/0326-power-of-three) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
