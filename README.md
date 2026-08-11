@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/AKNursumar/Leetcode-practice/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
+| [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/AKNursumar/Leetcode-practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -174,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
