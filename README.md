@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/AKNursumar/Leetcode-practice/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/AKNursumar/Leetcode-practice/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AKNursumar/Leetcode-practice/tree/master/0258-add-digits) |
@@ -171,10 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0070-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
