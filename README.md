@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AKNursumar/Leetcode-practice/tree/master/0704-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0070-climbing-stairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
