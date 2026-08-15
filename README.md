@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0796-rotate-string) |
+| [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AKNursumar/Leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
+| [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Memoization
 |  |
