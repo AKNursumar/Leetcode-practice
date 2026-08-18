@@ -6,8 +6,6 @@
 #         self.right = right
 class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
-        if root == None:
-            return []
         res = []
         queue = deque([root])
         while queue:
