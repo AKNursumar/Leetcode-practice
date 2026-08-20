@@ -1,7 +1,5 @@
 class Solution:
     def resultArray(self, nums: List[int]) -> List[int]:
-        if len(nums)<=2:
-            return nums
         arr1 = [nums[0]]
         arr2 = [nums[1]]
         for i in range(2,len(nums)):
