@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/AKNursumar/Leetcode-practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
