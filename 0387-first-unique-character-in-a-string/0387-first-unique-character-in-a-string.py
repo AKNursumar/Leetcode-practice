@@ -1,7 +1,8 @@
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        for i in range(len(s)):
-            if s[i] not in s[i+1:] and s[i] not in s[:i]:
+        counts = Counter(s)
+        for i,char in enumerate(s):
+            if counts[char] ==1:
                 return i
         return -1
         
