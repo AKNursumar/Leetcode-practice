@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AKNursumar/Leetcode-practice/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
