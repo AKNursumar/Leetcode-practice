@@ -4,8 +4,9 @@ class Solution:
         ind = -1
         for i in range(len(points)):
             if points[i][0] == x or points[i][1]==y:
-                if m>abs(points[i][0]-x)+abs(points[i][1]-y):
+                dist = abs(points[i][0]-x)+abs(points[i][1]-y)
+                if m> dist:
                     ind = i
-                    m = abs(points[i][0]-x)+abs(points[i][1]-y)
+                    m = dist
         return ind
         
