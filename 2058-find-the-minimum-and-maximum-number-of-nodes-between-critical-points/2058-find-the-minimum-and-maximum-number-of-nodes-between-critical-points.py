@@ -17,10 +17,11 @@ class Solution:
                 ind_arr.append(ind)
             prev = curr
             curr = curr.next
-        if len(ind_arr)==0 or len(ind_arr)==1:
+        n = len(ind_arr)
+        if n==0 or n==1:
             return [-1,-1]
         diff = float("inf")
-        for i in range(1,len(ind_arr)):
+        for i in range(1,n):
             diff = min(diff,ind_arr[i]-ind_arr[i-1])
         return [diff,ind_arr[-1]-ind_arr[0]]
 
