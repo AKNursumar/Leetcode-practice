@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0455-assign-cookies) |
+| [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
