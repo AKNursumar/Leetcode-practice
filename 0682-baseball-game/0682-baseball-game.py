@@ -2,13 +2,13 @@ class Solution:
     def calPoints(self, operations: List[str]) -> int:
         stack = []
         for ch in operations:
-            if ch not in "CD+":
-                stack.append(int(ch))
             if ch == 'C':
                 stack.pop()
-            if ch == 'D':
+            elif ch == 'D':
                 stack.append(stack[-1]*2)
-            if ch == '+':
+            elif ch == '+':
                 stack.append(stack[-1]+stack[-2])
+            else:
+                stack.append(int(ch))
         return sum(stack)
         
