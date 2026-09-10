@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/0989-add-to-array-form-of-integer) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
