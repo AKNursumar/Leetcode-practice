@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AKNursumar/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AKNursumar/Leetcode-practice/tree/master/0231-power-of-two) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AKNursumar/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
 ## String
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/3798-largest-even-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
+| [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
