@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
+| [2235-add-two-integers](https://github.com/AKNursumar/Leetcode-practice/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/AKNursumar/Leetcode-practice/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
