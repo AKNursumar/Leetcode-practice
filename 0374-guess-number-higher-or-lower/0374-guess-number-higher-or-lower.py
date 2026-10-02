@@ -11,9 +11,10 @@ class Solution:
         high = n
         while low<=high:
             mid = high - (high-low)//2
-            if guess(mid)==0:
+            res = guess(mid)
+            if res==0:
                 return mid
-            elif guess(mid)==-1:
+            elif res==-1:
                 high = mid-1
             else:
                 low = mid+1
