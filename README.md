@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/AKNursumar/Leetcode-practice/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
 | [2652-sum-multiples](https://github.com/AKNursumar/Leetcode-practice/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/AKNursumar/Leetcode-practice/tree/master/0374-guess-number-higher-or-lower) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
