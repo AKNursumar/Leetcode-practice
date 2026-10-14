@@ -16,6 +16,7 @@ class Solution:
             dfs(root.right)
         dfs(p)
         dfs(q)
-        return res[:len(res)//2] == res[len(res)//2:]
+        n = len(res)
+        return res[:n//2] == res[n//2:]
         
         
