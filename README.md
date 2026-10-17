@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AKNursumar/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AKNursumar/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AKNursumar/Leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AKNursumar/Leetcode-practice/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AKNursumar/Leetcode-practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/AKNursumar/Leetcode-practice/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AKNursumar/Leetcode-practice/tree/master/0637-average-of-levels-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AKNursumar/Leetcode-practice/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
 | ------- |
