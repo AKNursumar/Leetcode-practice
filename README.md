@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2235-add-two-integers](https://github.com/AKNursumar/Leetcode-practice/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
+| [2485-find-the-pivot-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/AKNursumar/Leetcode-practice/tree/master/2652-sum-multiples) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/AKNursumar/Leetcode-practice/tree/master/0724-find-pivot-index) |
+| [2485-find-the-pivot-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/AKNursumar/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
 |  |
