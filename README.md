@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1470-shuffle-the-array) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AKNursumar/Leetcode-practice/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1920-build-array-from-permutation](https://github.com/AKNursumar/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0537-complex-number-multiplication](https://github.com/AKNursumar/Leetcode-practice/tree/master/0537-complex-number-multiplication) |
 | [0682-baseball-game](https://github.com/AKNursumar/Leetcode-practice/tree/master/0682-baseball-game) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
+| [1920-build-array-from-permutation](https://github.com/AKNursumar/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AKNursumar/Leetcode-practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
