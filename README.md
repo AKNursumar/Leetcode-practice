@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/AKNursumar/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AKNursumar/Leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [1920-build-array-from-permutation](https://github.com/AKNursumar/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/AKNursumar/Leetcode-practice/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
