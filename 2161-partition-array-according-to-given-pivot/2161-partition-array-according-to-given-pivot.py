@@ -3,13 +3,13 @@ class Solution:
         small = []
         equal = []
         large = []
-        for i in range(len(nums)):
-            if nums[i]==pivot:
-                equal.append(nums[i])
-            elif nums[i]<pivot:
-                small.append(nums[i])
+        for num in nums:
+            if num==pivot:
+                equal.append(num)
+            elif num<pivot:
+                small.append(num)
             else:
-                large.append(nums[i])
+                large.append(num)
         return small+equal+large
         
         
