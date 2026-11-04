@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/AKNursumar/Leetcode-practice/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/AKNursumar/Leetcode-practice/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0796-rotate-string) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKNursumar/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKNursumar/Leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AKNursumar/Leetcode-practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
