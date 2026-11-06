@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AKNursumar/Leetcode-practice/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0537-complex-number-multiplication](https://github.com/AKNursumar/Leetcode-practice/tree/master/0537-complex-number-multiplication) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AKNursumar/Leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/AKNursumar/Leetcode-practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
