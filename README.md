@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/AKNursumar/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
+| [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0946-validate-stack-sequences](https://github.com/AKNursumar/Leetcode-practice/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/AKNursumar/Leetcode-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/AKNursumar/Leetcode-practice/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/AKNursumar/Leetcode-practice/tree/master/0561-array-partition) |
+| [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AKNursumar/Leetcode-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -501,4 +505,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AKNursumar/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
