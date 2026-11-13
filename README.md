@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/AKNursumar/Leetcode-practice/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/AKNursumar/Leetcode-practice/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AKNursumar/Leetcode-practice/tree/master/0191-number-of-1-bits) |
 ## Number Theory
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AKNursumar/Leetcode-practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -512,4 +515,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AKNursumar/Leetcode-practice/tree/master/0881-boats-to-save-people) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AKNursumar/Leetcode-practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
