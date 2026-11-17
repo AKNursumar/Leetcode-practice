@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/AKNursumar/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/AKNursumar/Leetcode-practice/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKNursumar/Leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1991-find-the-middle-index-in-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/AKNursumar/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Queue
