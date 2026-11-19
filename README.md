@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AKNursumar/Leetcode-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3110-score-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/3110-score-of-a-string) |
 | [3210-find-the-encrypted-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/3210-find-the-encrypted-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3798-largest-even-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/3798-largest-even-number) |
