@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AKNursumar/Leetcode-practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/AKNursumar/Leetcode-practice/tree/master/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/AKNursumar/Leetcode-practice/tree/master/1920-build-array-from-permutation) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/AKNursumar/Leetcode-practice/tree/master/0771-jewels-and-stones) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0561-array-partition](https://github.com/AKNursumar/Leetcode-practice/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3467-transform-array-by-parity](https://github.com/AKNursumar/Leetcode-practice/tree/master/3467-transform-array-by-parity) |
 ## Math
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1323-maximum-69-number) |
+| [1512-number-of-good-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/AKNursumar/Leetcode-practice/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/AKNursumar/Leetcode-practice/tree/master/2485-find-the-pivot-integer) |
