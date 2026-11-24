@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/AKNursumar/Leetcode-practice/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AKNursumar/Leetcode-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AKNursumar/Leetcode-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AKNursumar/Leetcode-practice/tree/master/1512-number-of-good-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AKNursumar/Leetcode-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2540-minimum-common-value](https://github.com/AKNursumar/Leetcode-practice/tree/master/2540-minimum-common-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AKNursumar/Leetcode-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/AKNursumar/Leetcode-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/AKNursumar/Leetcode-practice/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AKNursumar/Leetcode-practice/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AKNursumar/Leetcode-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AKNursumar/Leetcode-practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2540-minimum-common-value](https://github.com/AKNursumar/Leetcode-practice/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AKNursumar/Leetcode-practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AKNursumar/Leetcode-practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/AKNursumar/Leetcode-practice/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/AKNursumar/Leetcode-practice/tree/master/2540-minimum-common-value) |
 | [3884-first-matching-character-from-both-ends](https://github.com/AKNursumar/Leetcode-practice/tree/master/3884-first-matching-character-from-both-ends) |
 | [4030-check-ascii-palindromic](https://github.com/AKNursumar/Leetcode-practice/tree/master/4030-check-ascii-palindromic) |
 ## Boyer–Moore Majority Vote Algorithm
